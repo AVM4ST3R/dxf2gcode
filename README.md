@@ -22,7 +22,7 @@ La herramienta permite cargar un archivo DXF, especificar dimensiones, es decir,
 - Numpy
 
 ## Instrucciones de Uso
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+1. Clona este repositorio: `git clone https://github.com/AVM4ST3R/dxf2gcode.git` 
 2. Instala las dependencias: `pip install -r requirements.txt`
 3. Ejecuta la aplicación: `python main_dxf2gcode.py`
 

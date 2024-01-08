@@ -28,7 +28,7 @@ La herramienta permite cargar un archivo DXF, especificar dimensiones, es decir,
 
 ## Capturas de Pantalla
 ![Vista previa de la interfaz de la aplicación](screenshots/screenshot1.png)
-![Vista previa de la aplicación](screenshots/screenshot3.png)
+![Vista previa de la aplicación](screenshots/screenshot2.png)
 ![Ejemplo de G-code generado](screenshots/screenshot3.png)
 ![Ejemplo de G-code generado](screenshots/screenshot4.png)
 ## Contribuciones

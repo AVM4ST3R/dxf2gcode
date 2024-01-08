@@ -18,7 +18,7 @@ Este proyecto es una herramienta de conversión de archivos DXF a G-code. Permit
 ## Instrucciones de Uso
 1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
 2. Instala las dependencias: `pip install -r requirements.txt`
-3. Ejecuta la aplicación: `python main.py`
+3. Ejecuta la aplicación: `python main_dxf2gcode.py`
 
 ## Capturas de Pantalla
 ![Vista previa de la aplicación](screenshots/screenshot1.png)
